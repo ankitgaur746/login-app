@@ -17,7 +17,7 @@ npm install
 
 ### To Run
 ```
-nodemon server.js
+node server.js
 ```
 
 Code is Running on 
